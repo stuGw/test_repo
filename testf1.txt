@@ -1,2 +1,4 @@
 First ready (vit)
+CREATE LIB( VIT)
 
+TEST LIB( all)
