@@ -1,4 +1,6 @@
 First ready (vit)
 CREATE LIB( VIT)
 CREATELIB2(user2)
-TEST LIB, TestLib2( all)
+TESTEDLIB(vit)
+TEST LIB(FINISHED)TestLib2( all)
+
